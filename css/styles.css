@@ -21,6 +21,20 @@ h3 {
   text-align: center;
 }
 
+p, li {
+  color: #000;
+  font-size: 20px;
+  font-family: monospace;
+}
+
+.edu {
+  background-color: #9eeddd;
+  padding-left: 8%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-top: 2%;
+}
+
 .sidebar {
   float: right;
   background-color: #ED9EAE;
@@ -28,7 +42,5 @@ h3 {
   margin-right: 3%;
   width: 25%;
   text-align: center;
-  color: #000;
-  font-size: 20px;
-  font-family: monospace;;
+
 }
