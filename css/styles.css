@@ -14,7 +14,8 @@ h2 {
 }
 
 h1 {
-  font-size: 60px;
+  color: #ED9EAE;
+  font-size: 70px;
   text-align: center;
 }
 
@@ -43,5 +44,4 @@ p, li {
   margin-right: 3%;
   width: 25%;
   text-align: center;
-
 }
