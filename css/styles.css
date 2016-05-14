@@ -9,7 +9,7 @@ h1, h2, h3 {
 }
 
 h2 {
-  color: 	#9eaeed;
+  color:  #ED9EAE;
   font-size: 40px;
 }
 
@@ -30,11 +30,18 @@ p, li {
 }
 
 .purple {
-  background-color: #ED9EAE;
+  background-color: #9eaeed;
+}
+
+.pink {
+background-color: #ED9EAE;
+}
+
+.green {
+    background-color: #9eeddd;
 }
 
 .edu {
-  background-color: #9eeddd;
   padding-left: 8%;
   padding-top: 2%;
   padding-bottom: 1%;
@@ -43,7 +50,6 @@ p, li {
 
 .sidebar {
   float: right;
-  background-color: #ED9EAE;
   padding: 4%;
   margin-right: 3%;
   width: 25%;
