@@ -8,6 +8,10 @@ h1, h2, h3 {
   font-family: monospace;
 }
 
+h2 {
+  color: #f6ced6;
+}
+
 h1 {
   font-size: 60px;
   text-align: center;
@@ -21,6 +25,7 @@ h3 {
   float: right;
   background-color: #ED9EAE;
   padding: 4%;
+  margin-right: 3%;
   width: 25%;
   text-align: center;
   color: #000;
