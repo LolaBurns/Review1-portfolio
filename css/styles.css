@@ -16,3 +16,11 @@ h1 {
 h3 {
   text-align: center;
 }
+
+.sidebar {
+  float: left;
+  background-color: #ED9EAE;
+  padding: 2%;
+  width: 30%;
+  text-align: center;
+}
